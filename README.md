@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Prem Jituri 👋
 
-<!--
-**PremJituri/PremJituri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer with ~2 years of experience building enterprise applications using Spring Boot.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Spring Data JPA
+- REST APIs
+- MySQL
+- PostgreSQL
+- Git & GitHub
+- Docker
+- Kubernetes
+- Redis
+
+## Current Focus
+
+- Backend System Design
+- Production-grade Spring Boot development
+- Agentic AI/ LLM Integration
+- Improving DevOps knowledge
+
+## Featured Projects
+
+- Hotel Transaction Reconciliation System
+- Public Transit Tracking System
+- Spring Boot Authentication System
+
+## Connect with me
+
+LinkedIn: [url](https://www.linkedin.com/in/premjituri/)
+Email: premjituri1507@gmail.com
