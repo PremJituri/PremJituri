@@ -30,5 +30,5 @@ Java Backend Developer with ~2 years of experience building enterprise applicati
 
 ## Connect with me
 
-LinkedIn: [url](https://www.linkedin.com/in/premjituri/)
+LinkedIn: [https://www.linkedin.com/in/premjituri/](url)
 Email: premjituri1507@gmail.com
