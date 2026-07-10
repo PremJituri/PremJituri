@@ -103,7 +103,7 @@ A Retrieval-Augmented Generation (RAG) platform combining semantic search and LL
 
 ![Skills](https://skillicons.dev/icons?i=mysql,redis)
 <img src="assets/h2.svg" height="48" alt="H2 Database" title="H2 Database" />
-<img src="assets/chromadb.svg" height="48" alt="ChromaDB" title="ChromaDB" />
+<img src="assets/chromadb.png" height="48" alt="ChromaDB" title="ChromaDB" />
 
 **AI / LLM**
 
