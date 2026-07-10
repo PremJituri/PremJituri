@@ -102,11 +102,14 @@ A Retrieval-Augmented Generation (RAG) platform combining semantic search and LL
 **Database**
 
 ![Skills](https://skillicons.dev/icons?i=mysql,redis)
+<img src="assets/h2.svg" height="48" alt="H2 Database" title="H2 Database" />
+<img src="assets/chromadb.svg" height="48" alt="ChromaDB" title="ChromaDB" />
 
 **AI / LLM**
 
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=ollama,chatgpt)
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+<img src="assets/spring-ai.png" height="48" alt="Spring AI" title="Spring AI" />
 
 **Deployment**
 
@@ -114,7 +117,9 @@ A Retrieval-Augmented Generation (RAG) platform combining semantic search and LL
 
 **Dev Tools**
 
-![Skills](https://skillicons.dev/icons?i=git,github,postman,jira)
+![Skills](https://skillicons.dev/icons?i=git,github,postman)
+<img src="assets/jira.png" height="48" alt="Jira" title="Jira" />
+<img src="assets/rest-api.png" height="48" alt="RESTful APIs" title="RESTful APIs" />
 
 ---
 
