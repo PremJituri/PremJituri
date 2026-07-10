@@ -59,7 +59,7 @@ Generic Spring Boot communication gateway that validates requests and dynamicall
 
 Full-stack Transaction Reconciliation System (POC) that automates financial data matching between hotel internal records and MakeMyTrip (MMT) transaction reports, parsing and reconciling Excel reports to surface booking, payment, and settlement discrepancies.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PremJituri&repo=Transactions-Reconciliation-Platform&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/PremJituri/Transactions-Reconciliation-Platform)
+📄 [Financial-Reconciliation-Platform](https://github.com/PremJituri/Transactions-Reconciliation-Platform)
 
 | Layer | Technology |
 |---|---|
@@ -77,7 +77,7 @@ Full-stack Transaction Reconciliation System (POC) that automates financial data
 
 A Retrieval-Augmented Generation (RAG) platform combining semantic search and LLM inference for context-aware document Q&A — ingesting PDF/DOCX/TXT files, chunking text, generating embeddings, and storing vectors in ChromaDB to reduce LLM hallucinations.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PremJituri&repo=Local-RAG-Chat&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/PremJituri/Local-RAG-Chat)
+📄 [Local RAG Chat](https://github.com/PremJituri/Local-RAG-Chat)
 
 | Layer | Technology |
 |---|---|
@@ -122,20 +122,7 @@ A Retrieval-Augmented Generation (RAG) platform combining semantic search and LL
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=premjituri&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premjituri&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
-
 <img src="https://streak-stats.demolab.com/?user=premjituri&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy-winning.vercel.app/?username=premjituri&theme=nord&no-frame=true&no-bg=true&margin-w=10)
 
 </div>
 
