@@ -1,15 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=7dd3fc&height=200&section=header&text=Prem%20Jituri&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Prem%20Jituri&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=20)
 
 <a href="https://github.com/premjituri">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%2F+Spring+Boot;Building+RESTful+APIs+%26+Microservices;Exploring+RAG+%2B+LLMs+with+Spring+AI+%26+Ollama;Containerizing+everything+with+Docker+%26+Kubernetes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%2F+Spring+Boot;Building+RESTful+APIs;Exploring+RAG+%2B+LLMs+with+Spring+AI+%26+Ollama" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=premjituri&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/premjituri?color=7dd3fc&style=flat-square&label=Followers)
 
 </div>
 
@@ -32,7 +31,6 @@ const premJituri = {
     "Financial Reconciliation Platform",
     "Local RAG Chat Application",
   ],
-  certifications: [],
   status: "Actively building backend systems & exploring LLM-powered applications",
   openTo: ["Backend Engineering roles", "Collaborations on RAG / LLM tooling"],
 };
