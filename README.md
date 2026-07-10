@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Prem%20Jituri&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Prem%20Rajendra%20Jituri&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=20)
 
 <a href="https://github.com/premjituri">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%2F+Spring+Boot;Building+RESTful+APIs;Exploring+RAG+%2B+LLMs+with+Spring+AI+%26+Ollama" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%2F+Spring+Boot;Exploring+RAG+%2B+LLMs+with+Spring+AI+%26+Ollama" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -105,7 +105,8 @@ A Retrieval-Augmented Generation (RAG) platform combining semantic search and LL
 
 **AI / LLM**
 
-![Skills](https://skillicons.dev/icons?i=ollama)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=ollama,chatgpt)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 **Deployment**
 
@@ -134,7 +135,7 @@ A Retrieval-Augmented Generation (RAG) platform combining semantic search and LL
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=premjituri&theme=nord&no-frame=true&no-bg=true&margin-w=10)
+![Trophies](https://github-profile-trophy-winning.vercel.app/?username=premjituri&theme=nord&no-frame=true&no-bg=true&margin-w=10)
 
 </div>
 
@@ -160,4 +161,4 @@ A Retrieval-Augmented Generation (RAG) platform combining semantic search and LL
 
 </div>
 
-![Footer](https://capsule-render.com/api?type=waving&color=7dd3fc&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&v=2)
